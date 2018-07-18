@@ -1,4 +1,4 @@
-package com.pluralsight.controller;
+package com.edwin.controller;
 
 import java.util.List;
 
